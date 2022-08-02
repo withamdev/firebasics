@@ -8,6 +8,7 @@ Concepts learned:
   - low level browser API functionality
   - Google authentication on Firebase
   - Firestore NoSQL Document-Oriented Database
+  - Firestore Database access security
 
 The original repo can be found at https://github.com/fireship-io/3.1-firebase-basics
 
