@@ -10,4 +10,5 @@ Concepts learned:
   - Firestore NoSQL Document-Oriented Database
 
 The original repo can be found at https://github.com/fireship-io/3.1-firebase-basics
+
 The YouTube video can be found at https://www.youtube.com/watch?v=q5J5ho7YUhA
